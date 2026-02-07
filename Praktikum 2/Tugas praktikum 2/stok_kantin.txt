@@ -1,0 +1,7 @@
+BRG001, Roti, 70
+BRG002, Mie, 55
+BRG003, Susu, 30
+BRG004, Permen, 45
+BRG005, Kuaci, 40
+BRG006, Air Mineral, 70
+BRG007, Coklat, 85
